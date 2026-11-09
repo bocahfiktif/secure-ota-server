@@ -1,0 +1,7 @@
+
+{
+  "device": "ESP32",
+  "version": "2.0",
+  "firmware_url": "https://bocahfiktif.github.io/secure-ota-server/firmware_v2_signed.bin",
+  "security_version": 2
+}
